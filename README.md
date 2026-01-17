@@ -70,7 +70,8 @@ A simple responsive frontend website.
 ## ✨ Interests
 - Building real-world projects 💡  
 - Improving logic & confidence  
-- Preparing for placements  
+- Java DSA 💻
+- Web Development 🌐
 - Learning new technologies 🚀  
 
 ---
